@@ -3,3 +3,5 @@
 * Object Thinking https://www.amazon.pl/Object-Thinking-David-West/dp/0735619654
 
 * PHP Cookbook https://helion.pl/ksiazki/php-cookbook-solutions-examples-for-php-programmers-3rd-edition-david-sklar-adam-trachtenberg,e_2g87.htm#format/e
+
+* PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide https://www.amazon.pl/PHP-Advanced-Object-Oriented-Programming-QuickPro/dp/0321832183
